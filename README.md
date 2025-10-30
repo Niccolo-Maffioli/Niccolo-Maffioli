@@ -1,5 +1,4 @@
-🌍 Available languages:
-[🇬🇧 English](README.md) | [🇮🇹 Italiano](README.it.md)
+[🇮🇹 Italiano](README.it.md)
 
 ## 👋 Hi there, I'm Niccolò!
 
