@@ -57,7 +57,7 @@ Mi adatto facilmente a nuovi strumenti e ambienti di lavoro, e cerco sempre oppo
 
 ---
 
-⭐️ *“Continua a imparare, continua a creare.”*
+⭐️ *“Continuando a imparare e a creare.”*
 
 
 ## 🇬🇧 English
