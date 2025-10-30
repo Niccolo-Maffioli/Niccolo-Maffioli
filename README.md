@@ -1,3 +1,6 @@
+🌍 Available languages:
+[🇬🇧 English](README.md) | [🇮🇹 Italiano](README.it.md)
+
 ## 👋 Hi there, I'm Niccolò!
 
 I'm a **Junior Full Stack Developer** currently studying at **ITS Tech Talent Factory (Milan)**.  
