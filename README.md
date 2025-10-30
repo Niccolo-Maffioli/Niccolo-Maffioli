@@ -50,7 +50,7 @@ I adapt easily to new tools and environments, and I’m always looking for oppor
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://niccolo.dev" target="_blank">
-    <img src="niccolo.dev/favicon-16x16.png" alt="Portfolio" />
+    <img src="https://niccolo.dev/favicon.ico" alt="Portfolio" width="32" style="border-radius: 8px;" />
   </a>
 </p>
 
