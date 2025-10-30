@@ -1,4 +1,4 @@
-🌍 Available languages:
+🌍 Change language:
 [🇬🇧 English](README.md)
 
 ## 👋 Ciao, sono Niccolò!
