@@ -1,3 +1,6 @@
+🌍 Available languages:
+[🇬🇧 English](README.md)
+
 ## 👋 Ciao, sono Niccolò!
 
 Sono un **Junior Full Stack Developer** attualmente iscritto all’**ITS Tech Talent Factory di Milano**.  
