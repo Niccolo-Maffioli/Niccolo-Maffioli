@@ -31,20 +31,6 @@ I adapt easily to new tools and environments, and I’m always looking for oppor
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- STATISTICHE E BADGE -->
-<p align="center">
-
-  <!-- GitHub Stats e Linguaggi -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Niccolo-Maffioli&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niccolo-Maffioli&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-
-</p>
-
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
@@ -60,5 +46,3 @@ I adapt easily to new tools and environments, and I’m always looking for oppor
 </p>
 
 ---
-
-⭐️ *“Keep learning, keep building.”*
